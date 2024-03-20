@@ -34,16 +34,6 @@
   position: relative;
   z-index: 9999;
 }
-.profile-card-3 .card-content::before {
-  content: "";
-  width: 120%;
-  height: 100%;
-  left: 11px;
-  bottom: 51px;
-  position: absolute;
-  z-index: -1;
-  transform: rotate(-13deg);
-}
 .profile-card-3 .profile {
   border-radius: 50%;
   position: absolute;
