@@ -5,7 +5,7 @@
   overflow: hidden;
   width: 100%;
   text-align: center;
-  height: 368px;
+  height: 500px;
   border: none;
 }
 .profile-card-3 .background-block {
@@ -32,7 +32,7 @@
   height: 50%;
   border-radius: 0 0 5px 5px;
   position: relative;
-  z-index: 9999;
+  z-index: 1;
 }
 .profile-card-3 .profile {
   border-radius: 50%;
@@ -45,7 +45,7 @@
   border: 2px solid rgba(255, 255, 255, 1);
   -webkit-transform: translate(-50%, 0%);
   transform: translate(-50%, 0%);
-  z-index: 99999;
+  z-index: 2;
 }
 .profile-card-3 h2 {
   margin: 0 0 5px;
